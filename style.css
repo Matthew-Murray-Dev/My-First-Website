@@ -1,8 +1,12 @@
 /* Set ALL HTML elements with border-box sizing */* {
   box-sizing: border-box;
 }
-body{
+
+body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: maroon;
+  background-color: grey;
 }
+header {
+  height: 140px;
+  background-color: maroon;}
