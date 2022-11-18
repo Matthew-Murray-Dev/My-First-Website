@@ -7,12 +7,21 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   background-color: #d2b48c;
 }
+
 header {
   height: 140px;
   background-color: #800000; <!--Maroon-->
 }
 
-.title{
+header h2 {
+  font-family: Montserrat, serif;
+  color: #C0c0c0;
+  margin: 0px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.title {
   font-family: Rockwell, cursive;
   font-size: 72px;
   color: #C0c0c0;
@@ -22,14 +31,17 @@ header {
 }
 
 footer {
-  background-color: #800000;}
-footer p{
+  background-color: #800000;
+}
+
+footer p {
   color: #fff;
   text-align: center;
   padding: 30px;
   margin: 0;
 }
-section{
+
+section {
   padding: 0 25%;
   margin: 80px 0;
 }
