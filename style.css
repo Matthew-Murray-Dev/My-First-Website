@@ -5,13 +5,27 @@
 body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: grey;
+  background-color: #d2b48c;
 }
 header {
   height: 140px;
-  background-color: maroon;
+  background-color: #800000; <!--Maroon-->
+}
+
+.title{
+  font-family: Rockwell, cursive;
+  font-size: 72px;
+  color: #C0c0c0;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+footer {
+  background-color: #800000;
 }
 section{
   padding: 0 25%;
   margin: 80px 0;
 }
+
