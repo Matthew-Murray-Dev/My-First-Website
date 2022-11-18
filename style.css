@@ -48,7 +48,10 @@ section, article{
   list-style-position: inline;
 }
   
-
+ul,ol{
+  display:inline-block;
+  margin-left:auto;
+  margin-right:auto;}
 
 h1, h2, h3 {
   font-family: Garamond, serif;
