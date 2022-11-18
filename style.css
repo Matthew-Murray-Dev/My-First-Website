@@ -1,4 +1,4 @@
-/* Set ALL HTML elements with border-box sizing */* {
+/* Set ALL HTML elements with border-box sizing */ {
   box-sizing: border-box;
 }
 
@@ -10,7 +10,7 @@ body {
 
 header {
   height: 140px;
-  background-color: #800000; <!--Maroon-->
+  background-color: #800000; /*--Maroon-->*/
 }
 
 header h2 {
@@ -29,7 +29,6 @@ header h2 {
   margin: 0;
   padding: 20px 0 0 0;
 }
-
 
 
 footer {
@@ -52,6 +51,19 @@ h1{font-size: 28px;}
 h2{font-size: 26px;}
 h3{font-size: 18px;}
 
+p, li{
+  font-family: Montserrat, serif;
+  margin-bottom:0;
+}
+
+a{
+  font-weight: 700;
+}
+a: link {color: #0000ff;}
+a: visited {color: #8227dd;}
+a: hover { text-decoration: underline;}
+a: active {color: #0b5119;}
+  
 footer p {
   color: #fff;
   text-align: center;
@@ -62,6 +74,8 @@ footer p {
 img{
   width:75%;
   height:75%;
+  margin-left: auto;
+  margin-right: auto;
   border-radius:10px;
   border:1px solid #b19877;
 }
