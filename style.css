@@ -69,6 +69,8 @@ p, li{
   margin-bottom:0;
 }
 
+li{
+  text-align: left;}
 
 a{
   font-weight: 800;
@@ -94,7 +96,7 @@ hr{
   border-color:#800000;
   border-top: 2px;
   padding: 80px;
-  float: left;
+ 
 }
 
 
