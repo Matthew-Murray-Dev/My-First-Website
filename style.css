@@ -37,7 +37,7 @@ footer {
   background-color: #800000;
 }
 
-section {
+section, article {
   padding: 0 25%;
   margin: 80px 0;
 }
