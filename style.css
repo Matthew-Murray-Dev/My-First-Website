@@ -13,14 +13,6 @@ header {
   background-color: #800000; <!--Maroon-->
 }
 
-header h2 {
-  font-family: Montserrat, serif;
-  color: #C0c0c0;
-  margin: 0px;
-  font-size: 18px;
-  text-align: center;
-}
-
 .title {
   font-family: Rockwell, cursive;
   font-size: 72px;
@@ -28,6 +20,14 @@ header h2 {
   text-align: center;
   margin: 0;
   padding: 20px 0 0 0;
+}
+
+header h2 {
+  font-family: Montserrat, serif;
+  color: #C0c0c0;
+  margin: 0px;
+  font-size: 18px;
+  text-align: center;
 }
 
 footer {
