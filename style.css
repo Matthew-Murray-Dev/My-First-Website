@@ -86,23 +86,15 @@ footer p {
 }
 
 hr{
-  height: 30;
+
   border-style:solid;
   border-color:#800000;
-  border-width: 1px 0 0 0;
-  border-radius: 20px;
+  border-top: 2px;
+  padding: 80px;
+  float: left;
 }
 
-hr:before{
-display: block;
-content: "";
-height: 30px;
-margin-top: -31px;
-border-style: solid;
-border-color: #800000;
-border-width: 0 0 1px 0;
-border-radius: 20px;
-}
+
   
 img{
   display: block;
