@@ -38,7 +38,7 @@ footer {
 }
 
 section {
-  padding: 0 auto;
+  padding: 0 30%;
   margin:80px 0;
 }
   
@@ -59,7 +59,7 @@ h2{font-size: 26px;}
 h3{font-size: 18px;}
 
 p, li{
-  font-family:  serif;
+  font-family: Lora, serif;
   margin-bottom:0;
 }
 
