@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   background-color: #d2b48c;
-  text-align: center;
+ 
 }
 
 header {
@@ -31,7 +31,7 @@ header h2 {
   padding: 20px 0 0 0;
 }
 
-article{ text-align: left;}
+
 
 footer {
   background-color: #800000;
