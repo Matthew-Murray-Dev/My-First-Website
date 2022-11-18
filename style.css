@@ -59,22 +59,21 @@ h2{font-size: 26px;}
 h3{font-size: 18px;}
 
 p, li{
-  font-family: Garamond, serif;
+  font-family:  serif;
   margin-bottom:0;
 }
 
-h3>p{text-align: center;}
 
 a{
   font-weight: 800;
   text-decoration: none;	
-  
-}
-a: link {color: #0000ff;}
-a: visited {color: #8227dd;}
-a: hover {color: #0000ff;}
-a: active {color: #0b5119;}
-a: hover { text-decoration: underline;}
+  }
+
+a:link {color: #0000ff;}
+a:visited {color: #8227dd;}
+a:hover {color: #0000ff;}
+a:active {color: #0b5119;}
+a:hover {text-decoration: underline;}
 
 footer p {
   color: #fff;
