@@ -67,9 +67,10 @@ a{
 }
 a: link {color: #0000ff;}
 a: visited {color: #8227dd;}
-a: hover { text-decoration: underline;}
+a: hover {color: #0000ff;}
 a: active {color: #0b5119;}
-  
+a: hover { text-decoration: underline;}
+
 footer p {
   color: #fff;
   text-align: center;
