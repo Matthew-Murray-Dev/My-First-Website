@@ -1,22 +1,22 @@
-/* Set ALL HTML elements with border-box sizing */ {
+/* Set ALL HTML elements with border-box sizing */
+{
   box-sizing: border-box;
 }
-
+/* Section Formatting */
 body {
   margin: 0;
   font-family: Garamond, sans-serif;
   background-color: #d2b48c;
- 
-}
+ }
 
 header {
   height: 140px;
-  background-color: #800000; /*--Maroon-->*/
+  background-color: #800000; /*Maroon*/
 }
 
 header h2 {
   font-family: Garamond, serif;
-  color: #C0c0c0;
+  color: #C0c0c0; /* Silver */
   margin: 0px;
   font-size: 18px;
   text-align: center;
@@ -25,13 +25,11 @@ header h2 {
 .title {
   font-family: Rockwell, cursive;
   font-size: 72px;
-  color: #C0c0c0;
+  color: #C0c0c0; /* Silver */
   text-align: center;
   margin: 0;
   padding: 20px 0 0 0;
 }
-
-
 
 footer {
   background-color: #800000;
@@ -41,8 +39,7 @@ section, article{
   padding: 0 25%;
   margin:80px 0;
 }
-
-
+/* type formatting */
 .align-center{  
   text-align: center;
   list-style-position: inline;
@@ -89,13 +86,12 @@ footer p {
   padding: 30px;
   margin: 0;
 }
-
+/* Dividers */
 hr{
   border-style:solid;
   border-color:#800000;
 }
-
-
+/* Image Formatting */
   
 img{
   display: block;
