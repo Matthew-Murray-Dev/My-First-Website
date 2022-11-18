@@ -22,7 +22,8 @@ header {
 }
 
 footer {
-  background-color: #800000;
+  background-color: #800000;}
+footer p{
   color: #fff;
   text-align: center;
   padding: 30px;
