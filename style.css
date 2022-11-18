@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Garamond, sans-serif;
   background-color: #d2b48c;
  
 }
@@ -15,7 +15,7 @@ header {
 }
 
 header h2 {
-  font-family: Montserrat, serif;
+  font-family: Garamond, serif;
   color: #C0c0c0;
   margin: 0px;
   font-size: 18px;
@@ -49,7 +49,7 @@ article {
 }
 
 h1, h2, h3 {
-  font-family: Montserrat, serif;
+  font-family: Garamond, serif;
   color: #000000;
   text-align: center;
   font-weight: 500
@@ -60,7 +60,7 @@ h2{font-size: 26px;}
 h3{font-size: 18px;}
 
 p, li{
-  font-family: Montserrat, serif;
+  font-family: Garamond, serif;
   margin-bottom:0;
 }
 
