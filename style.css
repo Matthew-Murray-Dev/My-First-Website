@@ -43,9 +43,10 @@ section, article{
 }
 
 
-.align-center{
-  display: inline;
-  text-align: center;}
+.align-center{  
+  text-align: center;
+  list-style-position: inline;
+}
   
 
 
